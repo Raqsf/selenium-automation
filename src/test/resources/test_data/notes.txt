@@ -1,0 +1,5 @@
+Missing manufacturer settings - description isn't shown in the table, but it's in the export
+			      - filterig doesn't work
+SGN Table with 2844836 records only exports 1048575 from Agora and DB
+
+Work Unit Changes Vietnam QAE and CAE has different number of records
